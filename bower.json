@@ -1,0 +1,33 @@
+{
+  "name": "rem",
+  "version": "0.6.1",
+  "homepage": "https://github.com/tcr/rem",
+  "authors": [
+    "Tim Cameron Ryan <tim@timryan.org>"
+  ],
+  "description": "HTTP clients with middleware for Node.js and web browsers. Flexible for any HTTP request, customizable for building API clients, and supports OAuth.",
+  "main": "lib/rem.js",
+  "keywords": [
+    "http",
+    "client",
+    "middleware",
+    "web",
+    "service",
+    "api"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "build.sh",
+    "CHANGELOG.md",
+    "examples",
+    "lib/rem.js.min",
+    "package.json",
+    "services",
+    "src"
+  ]
+}
